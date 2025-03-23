@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dek1p12pxatus"]
+
+[node name="SettingsMenu" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 740.0
+offset_top = 321.0
+offset_right = 780.0
+offset_bottom = 344.0
+text = "SETTINGS MENU"
